@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @mickarongarcia
 - 👀 I’m interested in learning Web Development technologies.
-- 🌱 I’m currently learning NodeJS and trying to master Angular development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ReactJS and trying to master Angular development.
 
 <!---
 mickarongarcia/mickarongarcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
